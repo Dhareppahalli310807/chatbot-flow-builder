@@ -1,0 +1,14 @@
+.text-node {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: white;
+    width: 150px;
+    text-align: center;
+  }
+  
+  .text-node-content {
+    padding: 5px;
+    font-size: 14px;
+  }
+  
